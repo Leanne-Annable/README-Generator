@@ -8,51 +8,53 @@ const questions = [
     {
         type: "input",
         message: "How would you describe your project?",
-        name: "Description",
-    },
-    {
-        type: "input",
-        message: "Can you list a table of contents?",
-        name: "Table of Contents",
+        name: "description",
     },
     {
         type: "input",
         message: "How do you install your project?",
-        name: "Installation",
+        name: "installation",
     },
     {
         type: "input",
         message: "How do you use your project?",
-        name: "Usage",
+        name: "usage",
     },
     {
         type: "checkbox",
         message: "What Licence does you project have?",
-        name: "Licence",
+        name: "licence",
         choices: [
             'MIT',
             'Apache',
-            'Microsoft Public Licence',
             'Eclipse Public Licence',
             'ISC',
             'Mozilla Public Licence 2.0',
-            'Open Software Licence 3.0',
-        ]
+            'ODbL',
+        ],
+        // badges: {
+        //     MIT: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+        //     Apache: "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)",
+        //     Eclipse: "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)",
+        //     ISC: "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)",
+        //     Mozilla: "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)",
+        //     ODbL: "[![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)",
+        // },
     },
     {
         type: "input",
         message: "What are the contributing instructions",
-        name: "Contributing",
+        name: "contributing",
     },
     {
         type: "input",
-        message: "What are the tests used",
-        name: "Tests",
+        message: "What tests can you do?",
+        name: "tests",
     },
     {
         type: "input",
         message: "Questions",
-        name: "Questions",
+        name: "questions",
     },
 
 ];
