@@ -1,4 +1,4 @@
-# uvkzucv
+# REDME Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,18 +17,18 @@
   
   ## Description
   
-  afgasdf
+  A way to quickly write a README by answering a couple of simple questions.
 
   ## Installation
 
-  gsdfgs
+  You need to have Node.js installed (version 16.18 preferably). To install the dependencies needed you will need to run the following command line: npm install 
 
   ## Usage
 
-  fgsdfg
+  to create a README.md file, you will need to run the following command line from the rootfolder: node index.js
 
   ## Video
-  gdssdfg
+  https://drive.google.com/file/d/1n7FGLHAQRkE2XMc_WyIa-f2MPGBHphTq/view
 
   ## Licences
 
@@ -36,19 +36,19 @@
 
   ## Contributing
 
-  fgsfdg
+   Pull the repo and do a merge request.
 
   ## Tests
 
-  fdgsdfg
+  to test this project you can type into the command line: npm test
 
   ## Credits
-  fgsfg
+  my tutors and classmates
 
   ## Questions
 
   - If you have any questions about the repo, please contact me on: 
   
-  - email: fdgsdfg
+  - email: l.annable@outlook.com
 
-  - GitHub: fdgsdfg
+  - GitHub: Leanne-Annable
