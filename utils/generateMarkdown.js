@@ -79,7 +79,7 @@ function generateMarkdown(questionData) {
   
   - email: ${questionData.email}
 
-  - GitHub: ${questionData.GitHub}
+  - GitHub: https://github.com/${questionData.GitHub}
 `;
 }
 

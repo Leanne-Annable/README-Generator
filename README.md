@@ -66,6 +66,6 @@
   
   - email: l.annable@outlook.com
 
-  - GitHub: Leanne-Annable
+  - GitHub: https://github.com/Leanne-Annable
   
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
