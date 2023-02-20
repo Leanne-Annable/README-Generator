@@ -56,7 +56,21 @@ const questions = [
         message: "Questions",
         name: "questions",
     },
-
+    {
+        type: "input",
+        message: "What is your email address?",
+        name: "email",
+    },
+    {
+        type: "input",
+        message: "What is your GitHub username?",
+        name: "GitHub",
+    },
+    {
+        type: "input",
+        message: "Please link your video:",
+        name: "video",
+    },
 ];
 
 module.exports = questions
