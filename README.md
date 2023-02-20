@@ -8,6 +8,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Video](#video)
+  * [Screenshots](#screenshots)
   * [Licences](#licences)
   * [Contribution](#contributing)
   * [Tests](#tests)
@@ -25,10 +26,23 @@
 
   ## Usage
 
-  to create a README.md file, you will need to run the following command line from the rootfolder: node index.js
+  To create a README.md file, you will need to run the following command line from the rootfolder: node index.js 
+  You will then answer each of the prompted questions which will give the information needed for each section of the README.
+  When the final question has been answered you will be notified that the file has been created, and will see it appear in the folder.
+  You cn then preview the README by right-clicking and selecting 'open preview'.
 
   ## Video
   https://drive.google.com/file/d/1n7FGLHAQRkE2XMc_WyIa-f2MPGBHphTq/view
+
+  ## Screenshots
+  Open the terminal<br>
+  ![command-box](./assets/images/command-box.jpg)<br>
+  Answer the Questions<br>
+  ![questions-answered](./assets/images/questions-answered.jpg)<br>
+  This will generate the README<br>
+  ![created-README](./assets/images/created-README.jpg)<br>
+  The preview file of the README<br>
+  ![README-preview](./assets/images/README-preview.jpg)<br>
 
   ## Licences
 
@@ -36,14 +50,15 @@
 
   ## Contributing
 
-   Pull the repo and do a merge request.
+  To contribute to this project, you can Pull the repo and do a merge request.
 
   ## Tests
 
-  to test this project you can type into the command line: npm test
+  To test this project you can type into the command line: npm test
 
   ## Credits
-  my tutors and classmates
+
+  I used the information from our previous lessons in class and w3schools for assistance with switch functions <br>
 
   ## Questions
 
@@ -52,3 +67,5 @@
   - email: l.annable@outlook.com
 
   - GitHub: Leanne-Annable
+  
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
