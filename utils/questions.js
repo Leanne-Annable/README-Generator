@@ -21,6 +21,11 @@ const questions = [
         name: "usage",
     },
     {
+        type: "input",
+        message: "What is your in use screenshot image name?",
+        name: "screenshot",
+    },
+    {
         type: "list",
         message: "What License does you project have?",
         name: "license",

@@ -35,6 +35,7 @@ function generateMarkdown(questionData) {
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Screenshot](#screenshot)
   * [Video](#video)
   * [Licences](#licences)
   * [Contribution](#contributing)
@@ -54,6 +55,12 @@ function generateMarkdown(questionData) {
   ## Usage
 
   ${questionData.usage}
+
+  ## Screenshot
+
+  An Image of the project in use:
+
+  ![${questionData.screenshot}](./assets/images/${questionData.screenshot}.jpg)
 
   ## Video
   ${questionData.video}
