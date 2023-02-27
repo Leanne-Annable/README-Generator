@@ -84,9 +84,10 @@ function generateMarkdown(questionData) {
 
   - If you have any questions about the repo, please contact me on: 
   
-  - email: ${questionData.email}
+  - email: <a href="mailto:${questionData.email}">${questionData.email}</a>
+  
 
-  - GitHub: https://github.com/${questionData.GitHub}
+  - GitHub: <a href="https://github.com/${questionData.GitHub}" target="_blank" rel="noopener noreferrer">${questionData.GitHub}</a>
 `;
 }
 
