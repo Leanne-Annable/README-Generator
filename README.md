@@ -64,8 +64,8 @@
 
   - If you have any questions about the repo, please contact me on: 
   
-  - email: l.annable@outlook.com
+  - email: <a href="mailto:l.annable@outlook.com">l.annable@outlook.com</a>
 
-  - GitHub: https://github.com/Leanne-Annable
+  - GitHub: <a href="https://github.com/Leanne-Annable" target="_blank" rel="noopener noreferrer">Leanne-Annable</a>
   
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
